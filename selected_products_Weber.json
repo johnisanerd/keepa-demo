@@ -1,0 +1,25 @@
+[
+    {
+        "Buy box": 23.05,
+        "Sale Price": 27.66,
+        "ROI": 19.999999999999996,
+        "Sales Per Month": null,
+        "Purchase Link": "https://www.amazon.co.uk/dp/B01IF1HJAO",
+        "Keepa Link": "https://keepa.com/#!product/2-B01IF1HJAO",
+        "Market": {
+            "DE": 11.76
+        }
+    },
+    {
+        "Buy box": 28.83,
+        "Sale Price": 34.596,
+        "ROI": 19.999999999999996,
+        "Sales Per Month": null,
+        "Purchase Link": "https://www.amazon.co.uk/dp/B0020K966M",
+        "Keepa Link": "https://keepa.com/#!product/2-B0020K966M",
+        "Market": {
+            "DE": 18.19,
+            "ES": 20.69
+        }
+    }
+]
